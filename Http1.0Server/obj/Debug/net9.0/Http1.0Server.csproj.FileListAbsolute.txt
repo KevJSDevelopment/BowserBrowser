@@ -1,0 +1,14 @@
+C:\Users\Kshhn\source\repos\BowserBrowser\Http1.0Server\bin\Debug\net9.0\Http1.0Server.exe
+C:\Users\Kshhn\source\repos\BowserBrowser\Http1.0Server\bin\Debug\net9.0\Http1.0Server.deps.json
+C:\Users\Kshhn\source\repos\BowserBrowser\Http1.0Server\bin\Debug\net9.0\Http1.0Server.runtimeconfig.json
+C:\Users\Kshhn\source\repos\BowserBrowser\Http1.0Server\bin\Debug\net9.0\Http1.0Server.dll
+C:\Users\Kshhn\source\repos\BowserBrowser\Http1.0Server\bin\Debug\net9.0\Http1.0Server.pdb
+C:\Users\Kshhn\source\repos\BowserBrowser\Http1.0Server\obj\Debug\net9.0\Http1.0Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kshhn\source\repos\BowserBrowser\Http1.0Server\obj\Debug\net9.0\Http1.0Server.AssemblyInfoInputs.cache
+C:\Users\Kshhn\source\repos\BowserBrowser\Http1.0Server\obj\Debug\net9.0\Http1.0Server.AssemblyInfo.cs
+C:\Users\Kshhn\source\repos\BowserBrowser\Http1.0Server\obj\Debug\net9.0\Http1.0Server.csproj.CoreCompileInputs.cache
+C:\Users\Kshhn\source\repos\BowserBrowser\Http1.0Server\obj\Debug\net9.0\Http1.0Server.dll
+C:\Users\Kshhn\source\repos\BowserBrowser\Http1.0Server\obj\Debug\net9.0\refint\Http1.0Server.dll
+C:\Users\Kshhn\source\repos\BowserBrowser\Http1.0Server\obj\Debug\net9.0\Http1.0Server.pdb
+C:\Users\Kshhn\source\repos\BowserBrowser\Http1.0Server\obj\Debug\net9.0\Http1.0Server.genruntimeconfig.cache
+C:\Users\Kshhn\source\repos\BowserBrowser\Http1.0Server\obj\Debug\net9.0\ref\Http1.0Server.dll

@@ -1,0 +1,14 @@
+C:\Users\Kshhn\source\repos\BowserBrowser\goombalayer\goombaclient\bin\Debug\net9.0\goombaclient.exe
+C:\Users\Kshhn\source\repos\BowserBrowser\goombalayer\goombaclient\bin\Debug\net9.0\goombaclient.deps.json
+C:\Users\Kshhn\source\repos\BowserBrowser\goombalayer\goombaclient\bin\Debug\net9.0\goombaclient.runtimeconfig.json
+C:\Users\Kshhn\source\repos\BowserBrowser\goombalayer\goombaclient\bin\Debug\net9.0\goombaclient.dll
+C:\Users\Kshhn\source\repos\BowserBrowser\goombalayer\goombaclient\bin\Debug\net9.0\goombaclient.pdb
+C:\Users\Kshhn\source\repos\BowserBrowser\goombalayer\goombaclient\obj\Debug\net9.0\goombaclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kshhn\source\repos\BowserBrowser\goombalayer\goombaclient\obj\Debug\net9.0\goombaclient.AssemblyInfoInputs.cache
+C:\Users\Kshhn\source\repos\BowserBrowser\goombalayer\goombaclient\obj\Debug\net9.0\goombaclient.AssemblyInfo.cs
+C:\Users\Kshhn\source\repos\BowserBrowser\goombalayer\goombaclient\obj\Debug\net9.0\goombaclient.csproj.CoreCompileInputs.cache
+C:\Users\Kshhn\source\repos\BowserBrowser\goombalayer\goombaclient\obj\Debug\net9.0\goombaclient.dll
+C:\Users\Kshhn\source\repos\BowserBrowser\goombalayer\goombaclient\obj\Debug\net9.0\refint\goombaclient.dll
+C:\Users\Kshhn\source\repos\BowserBrowser\goombalayer\goombaclient\obj\Debug\net9.0\goombaclient.pdb
+C:\Users\Kshhn\source\repos\BowserBrowser\goombalayer\goombaclient\obj\Debug\net9.0\goombaclient.genruntimeconfig.cache
+C:\Users\Kshhn\source\repos\BowserBrowser\goombalayer\goombaclient\obj\Debug\net9.0\ref\goombaclient.dll
