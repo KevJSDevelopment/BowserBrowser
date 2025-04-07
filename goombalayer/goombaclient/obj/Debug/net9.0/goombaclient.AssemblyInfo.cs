@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("goombaclient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc96348a3a75c99d57329bf9ac2773d95629ae22")]
 [assembly: System.Reflection.AssemblyProductAttribute("goombaclient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("goombaclient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

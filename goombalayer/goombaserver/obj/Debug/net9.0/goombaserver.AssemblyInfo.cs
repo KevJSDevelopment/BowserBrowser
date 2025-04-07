@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("goombaserver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc96348a3a75c99d57329bf9ac2773d95629ae22")]
 [assembly: System.Reflection.AssemblyProductAttribute("goombaserver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("goombaserver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
