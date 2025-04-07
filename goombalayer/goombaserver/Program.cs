@@ -2,12 +2,27 @@
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Logging;
+using ShyguyLibrary.Data;
 
 namespace BowserUdpServer
 {
     class Program
     {
         static void Main()
+        {
+
+            var config = new ConfigurationBuilder()
+                .AddJsonFile(AppDomain.CurrentDomain.BaseDirectory + "appsettings.json", optional: false, reloadOnChange: true)
+                .Build();
+
+            DatabaseManager.Initialize(config);
+
+            Start();
+        }
+
+        static void Start()
         {
             // Create UDP server on localhost:8080
             UdpClient server = new UdpClient(8080);
