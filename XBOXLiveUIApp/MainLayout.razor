@@ -1,0 +1,51 @@
+﻿@using XBOXLiveUIApp.Components
+@inherits LayoutComponentBase
+
+<div class="main-layout">
+    <div class="@(contentClass)">
+        @switch (selectedTab)
+        {
+            case "XboxLIVE":
+                <XboxLive />
+                break;
+            case "Games":
+                <Games />
+                break;
+            case "Media":
+                <Media />
+                break;
+            case "System":
+                <SystemTab />
+                break;
+            default:
+                <p>Select a tab to view content.</p>
+                break;
+        }
+        <div class="controller-indicators">
+            <span class="button-a">A Select</span>
+            <span class="button-y">Y Open Tray</span>
+        </div>
+    </div>
+    <div class="tabs">
+        <button class="tab @(selectedTab == "XboxLIVE" ? "tab-xboxlive" : "")" @onclick="@(() => SelectTab("XboxLIVE"))">xbox live</button>
+        <button class="tab @(selectedTab == "Games" ? "tab-games" : "")" @onclick="@(() => SelectTab("Games"))">games</button>
+        <button class="tab @(selectedTab == "Media" ? "tab-media" : "")" @onclick="@(() => SelectTab("Media"))">media</button>
+        <button class="tab @(selectedTab == "System" ? "tab-system" : "")" @onclick="@(() => SelectTab("System"))">system</button>
+    </div>
+</div>
+
+@code {
+    private string selectedTab = "XboxLIVE";
+    private string contentClass = "tab-xboxlive";
+
+    private void SelectTab(string tab)
+    {
+        selectedTab = tab;
+        if (selectedTab == "XboxLIVE") contentClass = "content xboxlive";
+        else if (selectedTab == "Games") contentClass = "content games";
+        else if (selectedTab == "Media") contentClass = "content media";
+        else if (selectedTab == "System") contentClass = "content system";
+
+        StateHasChanged();
+    }
+}

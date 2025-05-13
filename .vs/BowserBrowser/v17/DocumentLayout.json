@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|c:\\users\\kshhn\\source\\repos\\bowserbrowser\\xboxliveuiapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|solutionrelative:xboxliveuiapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|c:\\users\\kshhn\\source\\repos\\bowserbrowser\\xboxliveuiapp\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|solutionrelative:xboxliveuiapp\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|c:\\users\\kshhn\\source\\repos\\bowserbrowser\\xboxliveuiapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|solutionrelative:xboxliveuiapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|c:\\users\\kshhn\\source\\repos\\bowserbrowser\\xboxliveuiapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|solutionrelative:xboxliveuiapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|c:\\users\\kshhn\\source\\repos\\bowserbrowser\\xboxliveuiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|solutionrelative:xboxliveuiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|c:\\users\\kshhn\\source\\repos\\bowserbrowser\\xboxliveuiapp\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|solutionrelative:xboxliveuiapp\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|c:\\users\\kshhn\\source\\repos\\bowserbrowser\\xboxliveuiapp\\components\\xboxlive.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|solutionrelative:xboxliveuiapp\\components\\xboxlive.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|c:\\users\\kshhn\\source\\repos\\bowserbrowser\\xboxliveuiapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|solutionrelative:xboxliveuiapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|c:\\users\\kshhn\\source\\repos\\bowserbrowser\\xboxliveuiapp\\components\\systemtab.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|solutionrelative:xboxliveuiapp\\components\\systemtab.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|c:\\users\\kshhn\\source\\repos\\bowserbrowser\\xboxliveuiapp\\components\\games.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|solutionrelative:xboxliveuiapp\\components\\games.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|c:\\users\\kshhn\\source\\repos\\bowserbrowser\\xboxliveuiapp\\components\\media.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0332A4BD-4DB2-48B0-80B3-4A9FDB2417C0}|XBOXLiveUIApp\\XBOXLiveUIApp.csproj|solutionrelative:xboxliveuiapp\\components\\media.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 339,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\_Imports.razor",
+              "RelativeDocumentMoniker": "XBOXLiveUIApp\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\_Imports.razor",
+              "RelativeToolTip": "XBOXLiveUIApp\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:42:11.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Media.razor",
+              "DocumentMoniker": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\Components\\Media.razor",
+              "RelativeDocumentMoniker": "XBOXLiveUIApp\\Components\\Media.razor",
+              "ToolTip": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\Components\\Media.razor",
+              "RelativeToolTip": "XBOXLiveUIApp\\Components\\Media.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:39:28.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SystemTab.razor",
+              "DocumentMoniker": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\Components\\SystemTab.razor",
+              "RelativeDocumentMoniker": "XBOXLiveUIApp\\Components\\SystemTab.razor",
+              "ToolTip": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\Components\\SystemTab.razor",
+              "RelativeToolTip": "XBOXLiveUIApp\\Components\\SystemTab.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:39:26.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "XboxLive.razor",
+              "DocumentMoniker": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\Components\\XboxLive.razor",
+              "RelativeDocumentMoniker": "XBOXLiveUIApp\\Components\\XboxLive.razor",
+              "ToolTip": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\Components\\XboxLive.razor",
+              "RelativeToolTip": "XBOXLiveUIApp\\Components\\XboxLive.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:34:54.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "XBOXLiveUIApp\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\wwwroot\\index.html",
+              "RelativeToolTip": "XBOXLiveUIApp\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-13T20:00:07.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "XBOXLiveUIApp\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "XBOXLiveUIApp\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAACYAAAAAAAAAAAD4v0EAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-13T19:32:53.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\Program.cs",
+              "RelativeDocumentMoniker": "XBOXLiveUIApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\Program.cs",
+              "RelativeToolTip": "XBOXLiveUIApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:00:33.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\MainLayout.razor",
+              "RelativeDocumentMoniker": "XBOXLiveUIApp\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\MainLayout.razor",
+              "RelativeToolTip": "XBOXLiveUIApp\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:23:41.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\App.razor",
+              "RelativeDocumentMoniker": "XBOXLiveUIApp\\App.razor",
+              "ToolTip": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\App.razor",
+              "RelativeToolTip": "XBOXLiveUIApp\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T20:00:16.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "XBOXLiveUIApp\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\Pages\\Index.razor",
+              "RelativeToolTip": "XBOXLiveUIApp\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T20:00:24.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Games.razor",
+              "DocumentMoniker": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\Components\\Games.razor",
+              "RelativeDocumentMoniker": "XBOXLiveUIApp\\Components\\Games.razor",
+              "ToolTip": "C:\\Users\\Kshhn\\source\\repos\\BowserBrowser\\XBOXLiveUIApp\\Components\\Games.razor",
+              "RelativeToolTip": "XBOXLiveUIApp\\Components\\Games.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T19:39:29.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,7 +12,7 @@ internal class Program
         UdpClient server = new UdpClient(8080);
         IPEndPoint clientEndPoint = new IPEndPoint(IPAddress.Any, 0);
         Dictionary<string, bool> connectedClients = new Dictionary<string, bool>(); // Track client connections
-
+          
         Console.WriteLine("Toad Server running on localhost:8080...");
         try
         {

@@ -1,0 +1,168 @@
+﻿.main-layout {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    background: linear-gradient(135deg, #f5a623, #f5d7a6);
+    color: #000000;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+.tabs {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+    padding: 10px;
+    background: linear-gradient(90deg, #666666, #888888);
+    border-radius: 5px 0 0 5px;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.5);
+}
+
+.tab {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: none;
+    color: #000000;
+    cursor: pointer;
+    border-radius: 3px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3);
+    text-align: left;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+    .tab:hover {
+        box-shadow: 0 0 5px #00ff00;
+    }
+
+    .tab:active {
+        box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3);
+    }
+
+/* Specific tab colors */
+.tab-xboxlive {
+    background: linear-gradient(135deg, #f1c40f, #f39c12); /* Yellowish */
+}
+
+.tab-games {
+    background: linear-gradient(135deg, #27ae60, #2ecc71); /* Green */
+}
+
+.tab-media {
+    background: linear-gradient(135deg, #3498db, #2980b9); /* Blue (for Media, as it's not specified but fits the theme) */
+}
+
+.tab-system {
+    background: linear-gradient(135deg, #9b59b6, #8e44ad); /* Violet/Magenta */
+}
+
+.content.xboxlive {
+    background: linear-gradient(135deg, #f1c40f, #f39c12); /* Yellowish */
+}
+
+.content.games {
+    background: linear-gradient(135deg, #27ae60, #2ecc71); /* Green */
+}
+
+.content.media {
+    background: linear-gradient(135deg, #3498db, #2980b9); /* Blue (for Media, as it's not specified but fits the theme) */
+}
+
+.content.system {
+    background: linear-gradient(135deg, #9b59b6, #8e44ad); /* Violet/Magenta */
+}
+
+    .tab-xboxlive:hover, .tab-games:hover, .tab-media:hover, .tab-system:hover {
+        box-shadow: 0 0 5px #00ff00;
+    }
+
+    .tab-xboxlive:active, .tab-games:active, .tab-media:active, .tab-system:active {
+        box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3);
+    }
+
+.content {
+    flex: 1;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.9);
+    backdrop-filter: blur(5px);
+    border-radius: 0 5px 5px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    overflow-y: auto;
+}
+
+.xbox-live, .games, .media, .system {
+    padding: 20px;
+}
+
+.xbox-live h2, .games h2, .media h2, .system h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    color: #00ff00;
+    text-shadow: 1px 1px 2px #000000;
+    font-weight: bold;
+}
+.profile-section, .game-library, .media-options, .system-options {
+    margin-top: 20px;
+}
+
+    .profile-section p, .game-library p, .media-options p, .system-options p {
+        color: #000000;
+        font-weight: bold;
+        text-shadow: 1px 1px 2px #ffffff;
+    }
+
+    .profile-section button {
+        display: block;
+        margin: 10px 0;
+        padding: 10px;
+        background: linear-gradient(135deg, #555555, #777777);
+        border: none;
+        color: #ffffff;
+        cursor: pointer;
+        border-radius: 5px;
+        box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3);
+    }
+
+        .profile-section button:hover {
+            background: linear-gradient(135deg, #666666, #888888);
+            box-shadow: 0 0 5px #00ff00;
+        }
+
+        .profile-section button:active {
+            background: linear-gradient(135deg, #444444, #666666);
+        }
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+    ul li {
+        margin: 5px 0;
+        color: #000000;
+        font-weight: bold;
+        text-shadow: 1px 1px 2px #ffffff;
+    }
+
+.controller-indicators {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    display: flex;
+    gap: 20px;
+}
+
+.button-a, .button-y {
+    display: flex;
+    align-items: center;
+    color: #000000;
+    font-weight: bold;
+}
+
+    .button-a::before {
+        content: "🟢";
+        margin-right: 5px;
+    }
+
+    .button-y::before {
+        content: "🟡";
+        margin-right: 5px;
+    }
